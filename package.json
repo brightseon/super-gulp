@@ -4,5 +4,12 @@
   "description": "Learn Gulp by building an awesome developoment environment",
   "repository": "https://github.com/seon-u/super-gulp.git",
   "author": "seon <seonu0823@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev" : "gulp dev",
+    "build" : "gulp build"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
