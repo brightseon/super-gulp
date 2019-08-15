@@ -6,10 +6,13 @@
   "author": "seon <seonu0823@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev" : "gulp dev",
-    "build" : "gulp build"
+    "dev": "gulp dev",
+    "build": "gulp build"
   },
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/register": "^7.5.5"
   }
 }
