@@ -19,6 +19,8 @@
   "dependencies": {
     "del": "^5.0.0",
     "gulp-image": "^5.1.0",
-    "gulp-webserver": "^0.9.1"
+    "gulp-sass": "^4.0.2",
+    "gulp-webserver": "^0.9.1",
+    "node-sass": "^4.12.0"
   }
 }
